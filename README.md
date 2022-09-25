@@ -1,11 +1,11 @@
 <div align="center">
   
-# 🧐 About Me <br>[![Profile views](https://gpvc.arturio.dev/USamirjon)](#)
+# :stuck_out_tongue_winking_eye: About Me <br>[![Profile views](https://gpvc.arturio.dev/USamirjon)](#)
 
 </div>
 
 
-> I'm Sam. I'm web-developer :metal:. I really enjoy using **DJango** && **Vue**
+> I'm Sam. I'm web-developer :muscle:. I really enjoy using **DJango** && **Vue**
 > 
 > Currently I'm studying in Kazan National Research Technical University named after A.N. Tupolev–KAI, 1 grade bachelor.
 >
