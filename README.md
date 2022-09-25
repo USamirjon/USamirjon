@@ -1,6 +1,6 @@
 <div align="center">
   
-# :stuck_out_tongue_winking_eye: About Me <br>[![Profile views](https://gpvc.arturio.dev/USamirjon)](#)
+# :stuck_out_tongue_winking_eye: About Me <br>![](https://komarev.com/ghpvc/?username=USamirjon)
 
 </div>
 
