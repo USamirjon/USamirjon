@@ -1,6 +1,6 @@
 <div align="center">
   
-# :stuck_out_tongue_winking_eye: About Me <br>![Visitor Count](https://profile-counter.glitch.me/USamirjon/count.svg)
+# :stuck_out_tongue_winking_eye: About Me <br>![](https://komarev.com/ghpvc/?username=USamirjon)
 
 </div>
 
