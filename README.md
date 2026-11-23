@@ -69,27 +69,11 @@
 
 ---
 
-## 🧪 Как я работаю над TDD-проектами
-
-Не «покрыть тестами готовый код», а наоборот — сначала правило, потом реализация.
-
-```
-docs/spec.md     →  правило сформулировано и пронумеровано (INV-1 … INV-5)
-тест             →  красный, потому что поведения ещё нет
-код              →  минимальный, чтобы стало зелёным
-рефакторинг       →  тесты не меняются ни на строку
-мутация          →  ломаю код нарочно и проверяю, что тест это поймал
-```
-
-Ветки и теги фиксируют пройденные уровни (`level-1-counters`, `level-1-domain`), чтобы можно было вернуться к любому состоянию.
-
----
-
 ## 📊 Статистика GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USamirjon&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=512BD4&icon_color=512BD4&text_color=808080" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USamirjon&show_icons=true&hide_border=true&title_color=512BD4&icon_color=512BD4&text_color=808080" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USamirjon&layout=compact&hide_border=true&langs_count=8&title_color=512BD4&text_color=808080" alt="Top languages" />
 
 <br>
