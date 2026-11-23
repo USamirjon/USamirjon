@@ -8,7 +8,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Sam__ir__jon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sam_ir_jon)
 [![Email](https://img.shields.io/badge/Email-samusm770@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samusm770@gmail.com)
-[![Location](https://img.shields.io/badge/Казань-Россия-2F80ED?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Худжанд-Таджикистан-2F80ED?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Profile views](https://komarev.com/ghpvc/?username=USamirjon&style=for-the-badge&color=512BD4)](https://github.com/USamirjon)
 
 </div>
